@@ -1,2 +1,2 @@
-# JavaScript_CloneCoding
+# Momentum_CloneCoding
 Nomad_Coders lecture
